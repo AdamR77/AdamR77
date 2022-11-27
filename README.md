@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in learning programming python, travels, cryptocurrencies market and blockchain technology, financial markets,                            many branches of chemistry: from polymers industry (my actual job) through biochemistry to neurochemistry>
+- 👀 I’m interested in learning programming python, travels, cryptocurrencies market and blockchain technology, financial markets,                            many branches of chemistry: from polymers industry (my actual job) through biochemistry to neurochemistry
 - 🌱 I’m currently learning python (REST-API frameworks, using basic functions and various data types, OOP in projects)
 - 💞️ I’m looking to collaborate on python projects for beginners
 
